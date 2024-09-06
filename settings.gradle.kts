@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "QuoteEasy"
 include(":app")
- 
+include(":domain")
+include(":data")
